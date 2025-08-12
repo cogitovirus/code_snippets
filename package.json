@@ -1,0 +1,22 @@
+{
+  "name": "code_snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cogitovirus/code_snippets.git"
+  },
+  "author": "wzolni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cogitovirus/code_snippets/issues"
+  },
+  "homepage": "https://github.com/cogitovirus/code_snippets#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
